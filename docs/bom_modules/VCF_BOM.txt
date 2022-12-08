@@ -1,0 +1,27 @@
+BILL OF MATERIALS VCF
+
+100k x5 https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html
+68k x2 https://www.taydaelectronics.com/resistor-68k-ohm-1-4w-1-metal-film-pkg-of-10.html
+33k x8 https://www.taydaelectronics.com/resistor-33k-ohm-1-4w-1-metal-film-pkg-of-10.html
+27k x2 https://www.taydaelectronics.com/resistor-27k-ohm-1-4w-1-metal-film-pkg-of-10.html
+14k x1 LOSS
+2k x2 https://www.taydaelectronics.com/resistor-2k-ohm-1-4w-1-metal-film-pkg-of-10.html
+1k x3 https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
+10 Ω x2 https://www.taydaelectronics.com/resistor-10-ohm-1-4w-1-metal-film-pkg-of-10.html
+
+47 μF (electrolytic) x2 https://www.taydaelectronics.com/47uf-400v-85c-radial-electrolytic-capacitor-16x25mm.html
+1 μF (1J/film) x2 https://www.taydaelectronics.com/1uf-100v-5-polyester-film-box-type-capacitor-jfj.html
+100 nF (104/ceramic) x6 https://www.taydaelectronics.com/100nf-50v-multilayer-monolithic-ceramic-capacitor-2-54mm-vishay.html
+1 nF (1n/film) x5 https://www.taydaelectronics.com/1nf-0-001uf-100v-5-polyester-film-box-type-capacitor.html
+
+SB140 (schottky) x2 LOSS
+1N4148 (signal) x9 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
+Please note that these could also be a different model (e.g. 1N5818).
+
+100k (B104) x5 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-knurled-plastic-spline-shaft-pcb-9mm.html
+
+50k (Y503) x1 https://www.taydaelectronics.com/50k-ohm-trimmer-potentiometer-cermet-25-turns-3296w.html
+
+Switched mono (black) x4 https://www.taydaelectronics.com/6-35mm-1-4-mono-phone-jack-6040.html
+
+TL074 (quad op amp) x2 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
