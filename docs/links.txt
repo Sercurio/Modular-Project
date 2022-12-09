@@ -1,8 +1,11 @@
-KOSMO Modules Case
+LMNC (Kosmo)
 https://issuu.com/lookmumnocomputer/docs/zine_6
 
-Hagiwo Numeric Eurorack
+Hagiwo Numeric (Eurorack)
 https://note.com/solder_state
 
-Yusynth modules
+Yusynth modules (Eurorack)
 http://www.yusynth.net/Modular/modular.html
+
+Benjiao (Eurorack)
+https://benjiaomodular.com/
