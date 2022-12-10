@@ -1,0 +1,20 @@
+BILL OF MATERIALS MIXER
+
+100k x8 https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html
+27k x1 https://www.taydaelectronics.com/resistor-27k-ohm-1-4w-1-metal-film-pkg-of-10.html
+1k x3 https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
+10Ω x2 https://www.taydaelectronics.com/resistor-10-ohm-1-4w-1-metal-film-pkg-of-10.html
+
+47 μF (electrolytic) x2 https://www.taydaelectronics.com/47uf-25v-105c-radial-electrolytic-capacitor-5x11mm.html
+100 nF (104/ceramic) x6 https://www.taydaelectronics.com/100nf-50v-multilayer-monolithic-ceramic-capacitor-2-54mm-vishay.html
+
+SB1402 (schottky) x2 LOSS
+1N4148 (signal) x2 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
+
+100k (B104) x3 https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-spline-shaft-pcb-mount-9mm.html
+
+20k (203) x1 https://www.taydaelectronics.com/20k-ohm-trimmer-potentiometer-cermet-25-turns-3296w.html
+
+Switched mono (black) x6 https://www.taydaelectronics.com/6-35mm-1-4-mono-phone-jack-6040.html
+
+TL072 (dual op amp) x2 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html

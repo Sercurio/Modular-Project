@@ -1,0 +1,43 @@
+BILL OF MATERIALS SAMPLE & HOLD
+
+1M x2 https://www.taydaelectronics.com/10-x-resistor-1m-ohm-1-4w-1-metal-film-pkg-of-10.html
+470k x2 https://www.taydaelectronics.com/10-x-resistor-470k-ohm-1-4w-1-metal-film-pkg-of-10.html
+100k x12 https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html
+51k x1 https://www.taydaelectronics.com/resistor-51k-ohm-1-4w-1-metal-film-pkg-of-10.html
+47k x1 https://www.taydaelectronics.com/10-x-resistor-47k-ohm-1-4w-1-metal-film-pkg-of-10.html
+33k x2 https://www.taydaelectronics.com/resistor-33k-ohm-1-4w-1-metal-film-pkg-of-10.html
+22k x1 https://www.taydaelectronics.com/10-x-resistor-22k-ohm-1-4w-1-metal-film-pkg-of-10.html
+20k x1 https://www.taydaelectronics.com/resistor-20k-ohm-1-4w-1-metal-film-pkg-of-10.html
+10k x1 https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1-4w-1-metal-film-pkg-of-10.html
+4k7 x2 https://www.taydaelectronics.com/10-x-resistor-4-7k-ohm-1-4w-1-metal-film-pkg-of-10.html
+2k x1 https://www.taydaelectronics.com/resistor-2k-ohm-1-4w-1-metal-film-pkg-of-10.html
+1k x6 https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
+680 Ω x1 https://www.taydaelectronics.com/resistor-680-ohm-1-4w-1-metal-film-pkg-of-10.html
+10 Ω x2 https://www.taydaelectronics.com/resistor-10-ohm-1-4w-1-metal-film-pkg-of-10.html
+
+47 μF (electrolytic) x3 https://www.taydaelectronics.com/nichicon-47uf-25v-105c-radial-electrolytic-capacitor-5-11mm.html
+1 μF (1J63/foil) x2 https://www.taydaelectronics.com/1uf-100v-5-polyester-film-box-type-capacitor-jfj.html
+470 nF (47k63/foil) x1 https://www.taydaelectronics.com/0-47uf-100v-5-polyester-film-box-type-capacitor.html
+100 nF (104/ceramic) x8 https://www.taydaelectronics.com/100nf-50v-multilayer-monolithic-ceramic-capacitor-2-54mm-vishay.html
+100 nF (1J100/foil) x1 https://www.taydaelectronics.com/0-1uf-100v-5-polyester-film-box-type-capacitor.html
+5.6 nF (5n6J/foil)  x2 https://www.taydaelectronics.com/5-6nf-0-0056uf-100v-5-polyester-film-box-type-capacitor.html
+2.2 nF (2n2J100/foil) x2 https://www.taydaelectronics.com/2-2nf-0-0022uf-100v-5-polyester-film-box-type-capacitor.html
+1 nF (102/ceramic) x1 https://www.taydaelectronics.com/10-1nf-50v-ceramic-disc-capacitor.html
+680 pF (680/foil)  x2 LOSS
+
+SB140  (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
+1N4148 (signal) x2 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
+
+2N3904 (NPN) x1 https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html
+BC548 (NPN) x1 https://www.taydaelectronics.com/bc548-transistor-npn-30v-0-1a.html
+J113 (JFET)  x1 LOSS
+ 
+250k (B254) x1 https://www.taydaelectronics.com/b250k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+100k (B104) x2 https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-spline-shaft-pcb-mount-9mm.html
+ 
+3mm (red) x1 https://www.taydaelectronics.com/led-3mm-red.html
+
+Switched mono (black) x8 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+ 
+TL074 (quad op amp) x2 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
+TL072 (dual op amp) x1 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html

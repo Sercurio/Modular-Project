@@ -1,0 +1,29 @@
+BILL OF MATERIALS EG
+
+100k x10 https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html
+47k x1 https://www.taydaelectronics.com/10-x-resistor-47k-ohm-1-4w-1-metal-film-pkg-of-10.html
+10k x1 https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1-4w-1-metal-film-pkg-of-10.html
+1k x2 https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
+470 x1 https://www.taydaelectronics.com/10-x-resistor-470-ohm-1-4w-1-metal-film-pkg-of-10.html
+100 x1 https://www.taydaelectronics.com/resistor-100-ohm-1-4w-1-metal-film-pkg-of-10.html
+10 x2 https://www.taydaelectronics.com/resistor-10-ohm-1-4w-1-metal-film-pkg-of-10.html
+
+47 μF (electrolytic) x2 https://www.taydaelectronics.com/nichicon-47uf-25v-105c-radial-electrolytic-capacitor-5-11mm.html
+1 μf (1J/film) x2 https://www.taydaelectronics.com/1uf-100v-5-polyester-film-box-type-capacitor-jfj.html
+100 nF (104/ceramic) x8 https://www.taydaelectronics.com/100nf-50v-multilayer-monolithic-ceramic-capacitor-2-54mm-vishay.html
+
+SB140 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
+1N4148 (signal) x6 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
+
+BC548 (NPN) x1 https://www.taydaelectronics.com/bc548-transistor-npn-30v-0-1a.html
+
+1M (A105) x2 LOSS
+100k (A104) x1 LOSS
+
+Single pole, double throw x1 LOSS
+
+3mm (red) x1 LOSS
+
+Switched mono (black) x3 https://www.taydaelectronics.com/6-35mm-1-4-mono-phone-jack-6040.html
+
+TL072 (dual op amp) x3 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
