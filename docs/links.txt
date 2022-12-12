@@ -1,7 +1,7 @@
 LMNC (Kosmo)
 https://issuu.com/lookmumnocomputer/docs/zine_6
 
-Hagiwo Numeric (Eurorack)
+Hagiwo (Eurorack)
 https://note.com/solder_state
 
 Yusynth modules (Eurorack)
@@ -9,3 +9,6 @@ http://www.yusynth.net/Modular/modular.html
 
 Benjiao (Eurorack)
 https://benjiaomodular.com/
+
+Amazing Synths (Eurorack)
+https://www.amazingsynth.com/
