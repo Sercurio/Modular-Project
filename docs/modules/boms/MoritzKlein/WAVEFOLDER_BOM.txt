@@ -15,3 +15,14 @@ BILL OF MATERIALS WAVEFOLDER
 2.2 nF (2n2J100/foil) x2 https://www.taydaelectronics.com/2-2nf-0-0022uf-100v-5-polyester-film-box-type-capacitor.html
 
 SB140 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
+
+BC548 (NPN) x4 https://www.taydaelectronics.com/bc548-transistor-npn-30v-0-1a.html
+BC558 (PNP) x2 https://www.taydaelectronics.com/bc558-bc558b-transistor-pnp-0-1a-30v.html
+
+10k (B103) x1 https://www.taydaelectronics.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+ 
+10k (W103) x1 https://www.taydaelectronics.com/10k-ohm-trimmer-potentiometer-cermet-25-turns-3296w.html
+ 
+Switched mono (black) x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+ 
+TL074 (quad op amp) x1 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
