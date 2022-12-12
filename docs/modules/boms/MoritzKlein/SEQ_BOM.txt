@@ -16,24 +16,21 @@ BILL OF MATERIALS SEQ
 100 nF (104/ceramic) x5 https://www.taydaelectronics.com/100nf-50v-multilayer-monolithic-ceramic-capacitor-2-54mm-vishay.html
 1 nF (102/ceramic) x1 https://www.taydaelectronics.com/10-1nf-50v-ceramic-disc-capacitor.html
 
-SB140 || 1N5818 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
+SB140 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
 1N4148 (signal) x15 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 2N3904 (NPN) x5 https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html
 BC547 (NPN) x1 https://www.taydaelectronics.com/bc547-transistor-npn-45v-0-1a.html
 
-250k (B254) x1 LOSS
-100k (B104) x5 https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-spline-shaft-pcb-mount-9mm.html
+250k (B254) x1 https://www.taydaelectronics.com/b250k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+100k (B104) x5 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
-Some switches. The specific models (which you can
-identify by the number of connectors on their underside)
-are
-Single pole, double throw x5 LOSS
+Single pole, double throw x5 https://www.taydaelectronics.com/mini-toggle-switch-spdt-on-none-on.html
 Single pole, triple throw x1 LOSS
 
 3mm (red) x5 https://www.taydaelectronics.com/led-3mm-red.html
 
-Switched mono (black) x5 https://www.taydaelectronics.com/6-35mm-1-4-mono-phone-jack-6040.html
+Switched mono (black) x5 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
 
 TL074 (quad op amp) x1 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
 CD4017 (decade counter) x1 https://www.taydaelectronics.com/cd4017-cd4017be-4017-decade-counter-divider-ic.html

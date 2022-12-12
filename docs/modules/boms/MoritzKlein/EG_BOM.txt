@@ -17,13 +17,13 @@ SB140 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30
 
 BC548 (NPN) x1 https://www.taydaelectronics.com/bc548-transistor-npn-30v-0-1a.html
 
-1M (A105) x2 LOSS
-100k (A104) x1 LOSS
+1M (A105) x2 https://www.taydaelectronics.com/1m-ohm-logarithmic-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+100k (A104) x1 https://www.taydaelectronics.com/100k-ohm-logarithmic-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
-Single pole, double throw x1 LOSS
+Single pole, double throw x1 https://www.taydaelectronics.com/mini-toggle-switch-spdt-on-none-on.html
 
-3mm (red) x1 LOSS
+3mm (red) x1 https://www.taydaelectronics.com/led-3mm-red.html
 
-Switched mono (black) x3 https://www.taydaelectronics.com/6-35mm-1-4-mono-phone-jack-6040.html
+Switched mono (black) x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
 
 TL072 (dual op amp) x3 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html

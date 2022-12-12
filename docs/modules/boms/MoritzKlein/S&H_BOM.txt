@@ -33,8 +33,8 @@ BC548 (NPN) x1 https://www.taydaelectronics.com/bc548-transistor-npn-30v-0-1a.ht
 J113 (JFET)  x1 LOSS
  
 250k (B254) x1 https://www.taydaelectronics.com/b250k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
-100k (B104) x2 https://www.taydaelectronics.com/tayda-100k-ohm-linear-taper-potentiometer-spline-shaft-pcb-mount-9mm.html
- 
+100k (B104) x2 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+
 3mm (red) x1 https://www.taydaelectronics.com/led-3mm-red.html
 
 Switched mono (black) x8 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

@@ -9,9 +9,9 @@ BILL OF MATERIALS WAVEFOLDER
 1k x5 https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
 10Ω x2 https://www.taydaelectronics.com/resistor-10-ohm-1-4w-1-metal-film-pkg-of-10.html
 
-47 μF (electrolytic) x2 https://www.taydaelectronics.com/47uf-25v-105c-radial-electrolytic-capacitor-5x11mm.html
-1 μF (1J63/foil) x1 LOSS
-100 nF (104/ceramic) x4 LOSS
-2.2 nF (2n2J100/foil) x2 LOSS
+47 μF (electrolytic) x2 https://www.taydaelectronics.com/nichicon-47uf-25v-105c-radial-electrolytic-capacitor-5-11mm.html
+1 μF (1J63/foil) x1 https://www.taydaelectronics.com/1uf-100v-5-polyester-film-box-type-capacitor-jfj.html
+100 nF (104/ceramic) x4 https://www.taydaelectronics.com/100nf-50v-multilayer-monolithic-ceramic-capacitor-2-54mm-vishay.html
+2.2 nF (2n2J100/foil) x2 https://www.taydaelectronics.com/2-2nf-0-0022uf-100v-5-polyester-film-box-type-capacitor.html
 
-SB1402 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
+SB140 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
