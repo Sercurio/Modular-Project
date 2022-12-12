@@ -26,7 +26,7 @@ BC547 (NPN) x1 https://www.taydaelectronics.com/bc547-transistor-npn-45v-0-1a.ht
 100k (B104) x5 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 Single pole, double throw x5 https://www.taydaelectronics.com/mini-toggle-switch-spdt-on-none-on.html
-Single pole, triple throw x1 LOSS
+Single pole, triple throw x1 https://www.taydaelectronics.com/mini-toggle-switch-1m-series-dpdt-on-on-on-t1.html (substitute, check ressources)
 
 3mm (red) x5 https://www.taydaelectronics.com/led-3mm-red.html
 
