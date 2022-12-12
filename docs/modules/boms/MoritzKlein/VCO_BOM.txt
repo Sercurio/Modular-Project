@@ -10,8 +10,7 @@ BILL OF MATERIALS VCO
 1k x2 https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html
 10 x2 https://www.taydaelectronics.com/resistor-10-ohm-1-4w-1-metal-film-pkg-of-10.html
 
-thermistor
-10k x4 LOSS
+10k x4 https://www.taydaelectronics.com/thermistors/10k-ohm-ntc-thermistor-4mm.html
 
 47 μF (electrolytic) x2 https://www.taydaelectronics.com/nichicon-47uf-25v-105c-radial-electrolytic-capacitor-5-11mm.html
 1 μF (1J/film) x1 https://www.taydaelectronics.com/1uf-100v-5-polyester-film-box-type-capacitor-jfj.html

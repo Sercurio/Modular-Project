@@ -20,17 +20,17 @@ BILL OF MATERIALS SAMPLE & HOLD
 470 nF (47k63/foil) x1 https://www.taydaelectronics.com/0-47uf-100v-5-polyester-film-box-type-capacitor.html
 100 nF (104/ceramic) x8 https://www.taydaelectronics.com/100nf-50v-multilayer-monolithic-ceramic-capacitor-2-54mm-vishay.html
 100 nF (1J100/foil) x1 https://www.taydaelectronics.com/0-1uf-100v-5-polyester-film-box-type-capacitor.html
-5.6 nF (5n6J/foil)  x2 https://www.taydaelectronics.com/5-6nf-0-0056uf-100v-5-polyester-film-box-type-capacitor.html
+5.6 nF (5n6J/foil) x2 https://www.taydaelectronics.com/5-6nf-0-0056uf-100v-5-polyester-film-box-type-capacitor.html
 2.2 nF (2n2J100/foil) x2 https://www.taydaelectronics.com/2-2nf-0-0022uf-100v-5-polyester-film-box-type-capacitor.html
 1 nF (102/ceramic) x1 https://www.taydaelectronics.com/10-1nf-50v-ceramic-disc-capacitor.html
-680 pF (680/foil)  x2 LOSS
+680 pF (680/foil) x2 LOSS
 
-SB140  (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
+SB140 (schottky) x2 https://www.taydaelectronics.com/1n5818-diode-schottky-1a-30v.html
 1N4148 (signal) x2 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 2N3904 (NPN) x1 https://www.taydaelectronics.com/2n3904-npn-general-propose-transistor.html
 BC548 (NPN) x1 https://www.taydaelectronics.com/bc548-transistor-npn-30v-0-1a.html
-J113 (JFET)  x1 LOSS
+J113 (JFET) x1 https://www.taydaelectronics.com/j112-jfet-n-channel-transistor-to-92.html (substitute)
  
 250k (B254) x1 https://www.taydaelectronics.com/b250k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 100k (B104) x2 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
