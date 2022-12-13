@@ -1,0 +1,58 @@
+XOX-HEART BOM (all is smd)
+
+Resistors
+100k 1% x23
+100r 1% x6
+47k 1% x8
+10k 1% x30
+1k 1% x3
+2.2k 1% x14
+220k 1% x10
+22k 1% x10
+27k 1% x1
+1.5M 1% x1
+22r 1% x1
+560r 5%/3300PPM ERA-V33J561V Panasonic
+
+Capacitors
+1uF/50V x18
+10uF/16V x8
+1nF/50V x2
+47uF/25V x6
+10nF/50V x4
+18nF/50V x1
+33nF/50V x4
+100nF/50V x4
+47nF/50V x1
+
+Diodes
+MBR0530 30V/0.5A x1
+1N4148 x12
+
+Headers
+0.1' 16Pins x1
+0.1' 6Pins x2
+0.1' 3Pins x6
+0.1' 2Pins x2
+
+Inductor
+8.2uH x1
+
+Transistors
+PMP4201 x36
+PMP5201 x16
+2SK3666-2 x1
+2SK3666-3 x1
+
+Trimmers
+5k x1
+500k x1
+50k x1
+5k x1
+
+ICs
+NCP1406 x1
+LM358 x2
+TL431A x1
+CD40109 x2
+CD4066 x2

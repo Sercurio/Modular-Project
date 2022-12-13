@@ -1,0 +1,50 @@
+XOX-PACEMAKER BOM (Trough Hole or SMD)
+
+Resistors
+1/4W 1% prefered
+
+10k x16
+100r x1
+2.2k x5
+100k x5
+150k x1
+220k x3
+1k x2
+12k x1
+51k x4
+36k x4
+470k x1
+
+ICs
+TL072 x1
+LM339 x1
+LM555 x1
+74HC14 x1
+74HC00 x1
+7805 x1
+
+Diodes
+1N4148 x4
+
+Capacitors
+0.1uF x7 all non-polar caps can be either poly or MLCC
+4.7nF x1 0.1” lead spacing, 0.15” wide, 0.08” thick
+1uF/50V x3
+100uF/25V x3
+100uF/10V x1
+100pF x2
+
+Potentiometers
+50k B x4
+50k A x3
+1M A x1
+
+Switchs
+DPDT ON-ON-ON x2
+
+Jacks
+Switched mono (black) x11 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+
+Headers
+0.1” 3Pins x10
+0.1” 6Pins x1
