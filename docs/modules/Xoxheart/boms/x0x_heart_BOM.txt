@@ -1,48 +1,48 @@
 XOX-HEART BOM (all is smd)
 
 Resistors
-100k 1% x23
-100r 1% x6
-47k 1% x8
-10k 1% x30
-1k 1% x3
-2.2k 1% x14
-220k 1% x10
-22k 1% x10
-27k 1% x1
-1.5M 1% x1
-22r 1% x1
-560r 5%/3300PPM ERA-V33J561V Panasonic
+100k 1% x23 https://www.taydaelectronics.com/50-x-100k-ohm-1-4w-1-1206-smd-chip-resistors.html
+100r 1% x6 https://www.taydaelectronics.com/50-x-100-ohm-1-4w-1-1206-smd-chip-resistors.html
+47k 1% x8 LOSS
+10k 1% x30 https://www.taydaelectronics.com/50-x-10k-ohm-1-4w-1-1206-smd-chip-resistors.html
+1k 1% x3 https://www.taydaelectronics.com/50-x-1k-ohm-1-4w-1-1206-smd-chip-resistors.html
+2.2k 1% x14 https://www.taydaelectronics.com/50-x-2-2k-ohm-1-4w-1-1206-smd-chip-resistors.html
+220k 1% x10 https://www.taydaelectronics.com/50-x-220k-ohm-1-4w-1-1206-smd-chip-resistors.html
+22k 1% x10 LOSS
+27k 1% x1 LOSS
+1.5M 1% x1 LOSS
+22r 1% x1 LOSS
+560r 5%/3300PPM ERA-V33J561V Panasonic LOSS
 
 Capacitors
-1uF/50V x18
-10uF/16V x8
-1nF/50V x2
-47uF/25V x6
-10nF/50V x4
-18nF/50V x1
-33nF/50V x4
-100nF/50V x4
-47nF/50V x1
+1uF/50V x18 https://www.taydaelectronics.com/1000nf-50v-smd-ceramic-chip-capacitor-1206.html
+10uF/16V x8 https://www.taydaelectronics.com/uwt1c100mcl1gb-10uf-16v-105c-electrolytic-capacitor-nichicon.html
+1nF/50V x2 https://www.taydaelectronics.com/1000pf-50v-x7r-smd-ceramic-chip-capacitor-0805.html
+47uF/25V x6 LOSS
+10nF/50V x4 https://www.taydaelectronics.com/10nf-50v-smd-ceramic-chip-capacitor.html
+18nF/50V x1 LOSS
+33nF/50V x4https://www.taydaelectronics.com/33nf-50v-smd-ceramic-chip-capacitor.html
+100nF/50V x4 https://www.taydaelectronics.com/0.1uf-50v-smd-ceramic-chip-capacitor-0805.html
+47nF/50V x1 https://www.taydaelectronics.com/47nf-50v-smd-ceramic-chip-capacitor.html
 
 Diodes
-MBR0530 30V/0.5A x1
-1N4148 x12
+MBR0530 30V/0.5A x1 LOSS
+1N4148 x12 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 Headers
-0.1' 16Pins x1
-0.1' 6Pins x2
-0.1' 3Pins x6
-0.1' 2Pins x2
+0.1' 16Pins x1 https://www.taydaelectronics.com/16-pin-2-54-mm-single-row-female-pin-header.html
+0.1' 6Pins x2 https://www.taydaelectronics.com/6-pin-2-54mm-single-row-female-pin-header.html
+0.1' 3Pins x6 https://www.taydaelectronics.com/3-pin-2-54-mm-single-row-female-pin-header.html
+0.1' 2Pins x2 https://www.taydaelectronics.com/2-pin-2-54-mm-single-row-female-pin-header.html
 
 Inductor
-8.2uH x1
+8.2uH x1 LOSS
 
 Transistors
-PMP4201 x36
-PMP5201 x16
-2SK3666-2 x1
-2SK3666-3 x1
+PMP4201 x36 LOSS
+PMP5201 x16 LOSS
+2SK3666-2 x1 LOSS
+2SK3666-3 x1 LOSS
 
 Trimmers
 5k x1
@@ -51,8 +51,8 @@ Trimmers
 5k x1
 
 ICs
-NCP1406 x1
-LM358 x2
-TL431A x1
-CD40109 x2
-CD4066 x2
+NCP1406 x1 LOSS
+LM358 x2 https://www.taydaelectronics.com/lm358-dual-operational-amplifier-general-purpose-soic-8-lm358dr.html
+TL431A x1 LOSS
+CD40109 x2 LOSS
+CD4066 x2 https://www.taydaelectronics.com/cd4066bm96-4066-ic-cmos-quad-bilateral-switch-soic-14.html
