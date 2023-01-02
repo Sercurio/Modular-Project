@@ -1,0 +1,34 @@
+BILL OF MATERIALS ADDITIVE_VCO
+
+uController
+
+Arduino Nano (328p) x1
+
+Resistors
+
+1k x5
+100R x1
+100k x3
+499k x1
+3.9k x2
+220R x1
+
+
+Potentiometers
+
+100k x3
+
+Diodes
+
+Schottky 0.3V (BAT43) x8
+
+capacitor
+
+10nF x4
+68nF x3
+22nF x1
+4.7uF x1
+
+ICs
+
+MCP6232 x1
