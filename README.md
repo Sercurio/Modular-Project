@@ -17,3 +17,6 @@ Making ribbon cables
 https://video.northcoastsynthesis.com/?t=cables-20190224
 https://www.youtube.com/watch?v=oONcrpDvaUM
 https://syntherjack.net/power-supply-ribbon-cable/
+
+azerty
+44
