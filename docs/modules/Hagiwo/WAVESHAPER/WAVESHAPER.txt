@@ -1,0 +1,9 @@
+BILL OF MATERIALS WAVESHAPER
+
+Potentiometers
+
+100k x1 
+
+MOSFETs
+
+2N7000L x1
