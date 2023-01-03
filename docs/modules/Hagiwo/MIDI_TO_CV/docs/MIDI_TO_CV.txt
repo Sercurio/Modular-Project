@@ -1,0 +1,28 @@
+https://note.com/solder_state/n/n17e028497eba
+
+BILL OF MATERIALS MIDI_TO_CV
+
+Resistors
+200R x2
+220R x1
+680R x1
+1k x3
+22k x2
+
+Caps
+220pF x1
+
+Diodes
+1N4148 x1
+LED x2
+BAT43 x8
+
+Potentiometers
+100k x1
+
+ICs
+TLP785 x1
+MCP4922 x1
+
+uController
+Arduino Nano x1

@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n17c69afd484d
-
 //----------------ライブラリの読み出し---------------------------
 //EEPROM用ライブラリ
 #include <EEPROM.h>

@@ -1,0 +1,26 @@
+https://note.com/solder_state/n/n17c69afd484d
+
+BILL OF MATERIALS PT2399_DELAY
+
+Resistors
+470R x7
+3.3k x2
+100k x1
+
+Caps
+0.01uF x2
+
+Diodes
+BAT43 x14
+
+Switch
+PushSwitch x1
+
+Encoder
+RotaryEncoder 4 x1
+
+OLED
+SSD1603 x1
+
+uController
+Arduino Nano x1

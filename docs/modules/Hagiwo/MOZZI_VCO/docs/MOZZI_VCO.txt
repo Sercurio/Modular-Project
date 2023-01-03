@@ -1,0 +1,33 @@
+https://note.com/solder_state/n/n71c67b5aaeca
+
+BILL OF MATERIALS MOZZI_VCO
+
+Resistors
+220R x1
+1k x4
+3.9k x2
+100k x1
+330k x1
+499k x1
+
+Caps
+100pF x3
+4.7nF x1
+10nF x1
+68nF x2
+4.7uF x1
+
+Diodes
+BAT43 x6
+
+Potentiometers
+100k x3
+
+ICs
+NJM2732 x1
+
+Switchs
+DPST x1
+
+uController
+Arduino nano x1

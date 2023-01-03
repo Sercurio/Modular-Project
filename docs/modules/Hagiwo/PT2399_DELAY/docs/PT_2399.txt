@@ -1,0 +1,52 @@
+https://note.com/solder_state/n/nf6dc0a61e26d
+
+BILL OF MATERIALS PT2399_DELAY
+
+Resistors
+200R x1
+1k x4
+4.7k x1
+10k x9
+15k x1
+22k x1
+33k x2
+47k x3
+100k x3
+120k x1
+220k x1
+330k x1
+470k x1
+
+Caps
+3.3nF x2
+4.7nF x3
+0.1uF x5
+0.47uF x1
+2.2uF x1
+4.7uF x4
+
+47uF x2
+100uF x1
+
+Diodes
+1N4148 x1
+BAT43 x4
+LED x1
+
+Transistors
+2SC1815 x1
+
+Potentiometers
+10k x1
+100k x2
+
+ICs
+MCP6232 x1
+TL072 x2
+PT2399 x1
+
+Switchs
+PushSwitch x1
+
+uController 
+Arduino Nano x1

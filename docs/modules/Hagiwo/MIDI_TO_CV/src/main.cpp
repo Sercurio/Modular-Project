@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n17e028497eba
-
 #include <MIDI.h>
 #include  <SPI.h>//DAC通信用
 MIDI_CREATE_DEFAULT_INSTANCE(); //MIDIライブラリを有効

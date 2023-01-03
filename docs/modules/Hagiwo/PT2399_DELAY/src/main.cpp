@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/nf6dc0a61e26d
-
 #include <MsTimer2.h>//timer count
 #include <avr/io.h> //for fast PWM
 

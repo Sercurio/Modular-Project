@@ -1,5 +1,3 @@
-// https://note.com/solder_state/n/n71c67b5aaeca
-
 #include <MozziGuts.h>
 #include <Oscil.h> // oscillator template
 // #include <OverSample.h>
