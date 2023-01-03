@@ -1,7 +1,8 @@
+https://note.com/solder_state/n/nd82c027d0597
+
 BILL OF MATERIALS V2164_DUAL_VCA
 
 Resistors
-
 470R x2
 2.2k x1
 7.5k x1
@@ -11,20 +12,17 @@ Resistors
 100k x1
 150k x1
 
-Potentiometers
-
-10k (B) x3
-50k (B) x1
-100k (B) x1
-
-Capacitors
-
+Caps
 100pF x2
 470 pF x1
 1uF x4
 47uf x2
 
-ICs
+Potentiometers
+10k (B) x3
+50k (B) x1
+100k (B) x1
 
+ICs
 TL074 x2
 V2164 x3

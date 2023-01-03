@@ -1,0 +1,31 @@
+https://note.com/solder_state/n/n0209d16d0d08
+
+BILL OF MATERIALS TR808_909
+
+Resistors
+330R x1
+1k x1
+3.3k x2
+10k x1
+20k x1
+33k x4
+
+Caps
+2.2nF x1
+22nF x1
+100uF x1
+220uF x2
+
+Diodes
+BAT43 x10
+LED x4
+
+ICs
+NJM2732 x1
+
+OLED
+SSD1603 x1
+
+Misc
+Switch x1
+TouchSensors x3

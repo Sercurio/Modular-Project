@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/ncd42925f726b
-
 #include <SPI.h>
 #include <EEPROM.h>
 #include <Wire.h>

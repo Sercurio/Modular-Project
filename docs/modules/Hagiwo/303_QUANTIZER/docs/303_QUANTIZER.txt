@@ -1,36 +1,29 @@
-BILL OF MATERIALS 303_QANTIZER
+BILL OF MATERIALS 303_QUANTIZER
 
 uController
-
 Arduino Nano (328p) x1
 
 Resistors
-
-470R x5
-680k x1
-100k x1
-3.3k x2
 330R x3
-
-Potentiometers
-
+470R x5
+3.3k x2
 100k x1
+680k x1
+
+Caps
+220pF x1
+0.01uF x1
+1uF x2
 
 Diodes
-
 led rgb x1
 Schottky 0.3V (BAT43) x8
 
-capacitor
-
-220p x1
-0.01uf x1
-1uf x2
+Potentiometers
+100k x1
 
 ICs
-
 MCP4726 x1
 
 encoder
-
 rotary encoder x1

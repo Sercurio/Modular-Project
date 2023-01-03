@@ -1,9 +1,9 @@
+https://note.com/solder_state/n/nfdc2e198255a
+
 BILL OF MATERIALS WAVESHAPER
 
 Potentiometers
-
 100k x1 
 
 MOSFETs
-
 2N7000L x1

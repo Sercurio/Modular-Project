@@ -1,0 +1,21 @@
+https://note.com/solder_state/n/n4c600f2431c3
+
+BILL OF MATERIALS SYNC_LFO
+
+Resistors
+470R x5
+1k x1
+33k x1
+100k x1
+
+Caps
+220pF x4
+4.7uF x1
+
+Diodes
+BAT43 x2
+LED x1
+
+Potentiometers
+100k x4
+

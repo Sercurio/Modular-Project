@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n4c600f2431c3
-
 #include <FlexiTimer2.h>
 
 #include <avr/io.h>

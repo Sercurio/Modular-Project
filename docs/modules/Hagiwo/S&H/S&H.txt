@@ -1,0 +1,29 @@
+https://note.com/solder_state/n/n29b52f4f01f1
+
+BILL OF MATERIALS S&H
+
+Resistors
+1k x2
+4.7k x1
+10k x6
+33k x2
+68k x1
+100k x3
+
+Caps
+1nF x1
+2.2uF x1
+
+Diodes
+1N4148 x2
+LED x1
+
+Potentiometers
+100k x3
+
+ICs
+uPC398c x1
+TL072 x2
+
+Switchs
+SPDT x1

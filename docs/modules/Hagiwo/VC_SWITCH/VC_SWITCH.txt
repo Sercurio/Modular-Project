@@ -1,34 +1,36 @@
+https://note.com/solder_state/n/n98883e71f814
+
 BILL OF MATERIALS VC_SWITCH
 
 Resistors
-
 470R x6
 1k x4
 10k x15
 33k x2
 47k x1
 
-ICs
-
-TL072 x2
-
-Potentiometers
-
-10k x1
+Caps
+4.7uF x2
 
 Diodes
-
 1N4148 x2
 LEDs x2
+
+Transistors
+2SC1815 x2
+
+Potentiometers
+10k x1
 
 Switchs
 ??? x2
 NJU211 x1
 
-Transistors
+ICs
+TL072 x2
 
-2SC1815 x2
 
-Capacitors
 
-4.7uF x2
+
+
+

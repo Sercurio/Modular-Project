@@ -1,7 +1,8 @@
+https://note.com/solder_state/n/n0fabdc23fe1e
+
 BILL OF MATERIALS V2044_VCF
 
 Resistors
-
 220R x2
 1k x2
 4.7k x1
@@ -12,13 +13,7 @@ Resistors
 100k x6
 470k x1
 
-Potentiometers
-
-10k x1
-100k x4
-
-Capacitors
-
+Caps
 22pF x3
 330pF x1
 470pF x1
@@ -28,13 +23,12 @@ Capacitors
 10uF x2
 
 Diodes
-
 1N4148 x1
 
+Potentiometers
+10k x1
+100k x4
+
 ICs
-
 TL072 x3
-
-uController
-
 V2044 x1

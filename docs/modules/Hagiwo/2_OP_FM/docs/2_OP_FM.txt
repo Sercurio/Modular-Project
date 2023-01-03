@@ -1,26 +1,18 @@
 BILL OF MATERIALS 2_OP_FM
 
 uController
-
 Arduino Nano (328p) x1
 
-Potentiometers
-
-100k x3
-
 Resistors
-
-1K x5
 100R x1
+220R x1
+1K x5
+3.9k x2
+100k x2
 330k x1
 499k x1
-3.9k x2
-220R x1
-100k x2
-
 
 Caps
-
 100pF x3
 68nF x3
 4.7nF x1
@@ -28,11 +20,12 @@ Caps
 4.7uF x1
 
 Diodes
-
 Schottky 0.3V (BAT43) x8
 
-ICs
+Potentiometers
+100k x3
 
+ICs
 NJM2732 x1
 
 

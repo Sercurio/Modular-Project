@@ -1,0 +1,33 @@
+https://note.com/solder_state/n/na183f56096ac
+
+BILL OF MATERIALS YAMAHA_PCM_PIANO
+
+Resistors
+1k x7
+10k x6
+33k x2
+100k x1
+220k x1
+330k x1
+
+Caps
+0.1uF x8
+3.3uF x1
+10uF x2
+
+Diodes
+BAT43 x6
+
+Potentiometers
+10k x4
+
+ICs
+MCP6232 x2
+
+Switchs
+PushSwitch x1
+DPST x1
+TPST x1
+
+Modules
+NSX-39 x1

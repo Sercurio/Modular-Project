@@ -1,21 +1,18 @@
 BILL OF MATERIALS 5_MIX
 
-Potentiometers
-
-10k x5
-100k x1 
-
 Resistors
-
 100k x6
 22k x1
 4.7k x1 
 1k x1 
 
-capacitor
-
+Caps
 4.7uF x2
 
-ICs
+Potentiometers
 
+10k x5
+100k x1 
+
+ICs
 TL072 x1

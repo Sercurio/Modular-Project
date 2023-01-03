@@ -1,0 +1,33 @@
+https://note.com/solder_state/n/ncd42925f726b
+
+BILL OF MATERIALS TOUCH
+
+Resistors
+330R x1
+470R x2
+1k x5
+1.5k x4
+22k x1
+47k x4
+
+Caps
+0.1uF x1
+
+Diodes
+BAT43 x10
+LED x1
+
+Transistors
+2SC1815 x2
+
+Potentiometers
+10k x1
+
+ICs
+MCP4911 x1
+
+Switchs
+TPST x1
+
+Modules
+MPR121 x1
