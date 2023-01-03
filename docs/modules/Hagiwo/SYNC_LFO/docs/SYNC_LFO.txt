@@ -19,3 +19,5 @@ LED x1
 Potentiometers
 100k x4
 
+uController
+Arduino Nano x1

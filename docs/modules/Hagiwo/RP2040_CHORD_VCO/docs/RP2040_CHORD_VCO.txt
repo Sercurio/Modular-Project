@@ -1,0 +1,38 @@
+https://note.com/solder_state/n/n64b91a171218
+
+BILL OF MATERIALS RP2040_CHORD_VCO
+
+Resistors
+330R x1
+1k x4
+6.8k x1
+10k x5
+20k x1
+33k x1
+220k x1
+330k x1
+
+Caps
+4.7nF x1
+10nF x2
+0.01uF x1
+0.1uF x2
+10uF x1
+47uF x3
+??? x1
+
+Diodes
+BAT43 x4
+
+Potentiometers
+10k x3
+
+ICs
+TL074 x4
+
+Switchs
+TPST On-Off-On x1
+PushSwitch x1
+
+uController
+Seeed XIAO RP2040 x1

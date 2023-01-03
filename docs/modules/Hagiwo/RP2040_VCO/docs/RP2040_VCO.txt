@@ -1,0 +1,35 @@
+https://note.com/solder_state/n/nca6a1dec3921
+
+BILL OF MATERIALS RP2040_VCO
+
+Resistors
+220R x2
+330R x1
+1k x2
+2.7k x1
+5.6k x1
+22k x1
+33k x1
+220k x1
+330k x1
+
+Caps
+0.01uF x1
+0.1uF x3
+10uF x5
+
+Diodes
+BAT43 x6
+
+Potentiometers
+10k x2
+
+ICs
+MCP6232 x1
+
+Switchs
+TPST On-Off-On x2 
+PushSwitch x1
+
+uController
+Seeed Xiao RP2040 x1

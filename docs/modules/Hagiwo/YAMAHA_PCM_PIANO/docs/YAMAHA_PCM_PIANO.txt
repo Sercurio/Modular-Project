@@ -31,3 +31,6 @@ TPST x1
 
 Modules
 NSX-39 x1
+
+uController
+Seeed Xiao x1

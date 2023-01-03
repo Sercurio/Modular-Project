@@ -29,3 +29,6 @@ SSD1603 x1
 Misc
 Switch x1
 TouchSensors x3
+
+uController
+Seeed Xiao x1

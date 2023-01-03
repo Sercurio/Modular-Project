@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/nca6a1dec3921
-
 #include <hardware/pwm.h>
 
 int k = 1;

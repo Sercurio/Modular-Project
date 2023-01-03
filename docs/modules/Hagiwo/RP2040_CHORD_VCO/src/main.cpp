@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n64b91a171218
-
 #include <hardware/pwm.h>
 
 float osc_progress[6];//0~4=chord osc , 5=bass osc , 6=arpeggio osc

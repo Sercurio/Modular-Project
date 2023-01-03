@@ -31,3 +31,6 @@ TPST x1
 
 Modules
 MPR121 x1
+
+uController
+Arduino Nano x1
