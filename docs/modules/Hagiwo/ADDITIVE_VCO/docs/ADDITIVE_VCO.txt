@@ -1,7 +1,6 @@
-BILL OF MATERIALS ADDITIVE_VCO
+https://note.com/solder_state/n/n30b3a8737b1e
 
-uController
-Arduino Nano (328p) x1
+BILL OF MATERIALS ADDITIVE_VCO
 
 Resistors
 100R x1
@@ -25,3 +24,6 @@ Potentiometers
 
 ICs
 MCP6232 x1
+
+uController
+Arduino Nano (328p) x1

@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n30b3a8737b1e
-
 #include <MozziGuts.h>
 #include <Oscil.h> // oscillator template
 #include <tables/sin2048_int8.h> // sine table for oscillator

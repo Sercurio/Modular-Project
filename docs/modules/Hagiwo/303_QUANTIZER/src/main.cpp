@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/nde97a0516f03
-
 #define  ENCODER_OPTIMIZE_INTERRUPTS //エンコーダノイズ対策
 #include <Wire.h>
 #include <Encoder.h>

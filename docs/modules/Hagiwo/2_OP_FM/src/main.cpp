@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n88317851a4c7
-
 #include <MozziGuts.h>
 #include <Oscil.h>
 #include <tables/cos2048_int8.h> // table for Oscils to play

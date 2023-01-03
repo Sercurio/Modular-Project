@@ -1,7 +1,6 @@
-BILL OF MATERIALS 2_OP_FM
+https://note.com/solder_state/n/n88317851a4c7
 
-uController
-Arduino Nano (328p) x1
+BILL OF MATERIALS 2_OP_FM
 
 Resistors
 100R x1
@@ -28,5 +27,5 @@ Potentiometers
 ICs
 NJM2732 x1
 
-
-
+uController
+Arduino Nano (328p) x1
