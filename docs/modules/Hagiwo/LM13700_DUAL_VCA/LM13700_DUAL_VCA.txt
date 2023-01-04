@@ -1,0 +1,26 @@
+https://note.com/solder_state/n/n3357199504d8
+
+BILL OF MATERIAL LM13700_DUAL_VCA
+
+Resistors
+
+180R x1
+4.7k x1
+6.8k x1
+10k x2
+24k x1
+47k x3
+100k x3
+510k x1
+
+Caps
+2.2uF x2
+4.7uF x2
+
+Potentiometers
+
+100k x1
+
+ICs
+TL074 x2
+LM13700 x1

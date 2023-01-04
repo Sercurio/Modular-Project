@@ -1,0 +1,26 @@
+https://note.com/solder_state/n/n28b5c43229af
+
+BILL_OF_MATERIAL GATE_BURST_DELAY
+
+Resistors
+1k x6
+22k x1
+47k x1
+100k x3
+
+Caps
+220pF x2
+
+Diodes
+BAT43 x8
+LED x2
+
+Potentiometers
+100k x2
+
+Switch
+PushSwitch x1
+ToggleSwitch x1 
+
+uController
+Arduino nano x1

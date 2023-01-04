@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n950ed088c3cb
-
 #define  ENCODER_OPTIMIZE_INTERRUPTS //rotary encoder
 #include "sample.h"//sample file
 #include <Encoder.h>//rotary encoder

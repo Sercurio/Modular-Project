@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n28b5c43229af
-
 #include <MsTimer2.h>
 
 //specification

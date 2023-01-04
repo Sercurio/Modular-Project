@@ -1,0 +1,24 @@
+https://note.com/solder_state/n/n433b32ea6dbc
+
+BILL_OF_MATERIAL EUCLIDEAN_SEQ
+
+Resistors
+470R x7
+3.3k x2
+100k x1
+
+Caps
+0.01uF x2
+
+Diodes
+BAT43 x14
+
+Switch
+RotaryEncoder4 x1
+PushSwitch x1
+
+Modules
+SSD1603 x1
+
+uController
+Arduino nano x1

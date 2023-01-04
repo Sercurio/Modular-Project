@@ -1,0 +1,52 @@
+https://note.com/solder_state/n/n1c402a78a0fe
+
+BILL_OF_MATERIAL FV1_EFFECT
+
+Resistors
+100R x1
+1K x8
+3.3k x2
+10k x4
+22k x7
+33k x4
+47k x2
+100k x4
+1M x1
+
+Caps
+15pF x1
+10nF x6
+0.01uF x2
+0.1uF x5
+0.22uF x3
+1uF x1
+4.7uF x4
+47uF x4
+
+Diodes
+BAT43 x6
+
+Potentiometers
+50k x1
+100k x5
+
+Crystal
+FC-135 x1
+
+VoltageReg
+LM2940T-33 x1
+
+ICs
+TL072 x2
+
+Switch
+On-off x1
+RotaryEncoder4 x1
+PushSwitch x1
+
+Modules
+24FC64 x2
+SSD1603
+
+uController
+Arduino nano x1

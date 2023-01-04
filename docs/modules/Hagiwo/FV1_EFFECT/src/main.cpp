@@ -1,4 +1,3 @@
-//https://note.com/solder_state/n/n1c402a78a0fe
 
 #include <Encoder.h>
 #include <avr/io.h>//for fast PWM

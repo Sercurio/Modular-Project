@@ -1,0 +1,55 @@
+https://note.com/solder_state/n/n25e61cdb657c
+
+BILL_OF_MATERIAL HI_HAT
+
+Resistors
+220R x2
+330R x5
+560R x1
+680R x1
+1k x1
+4.7k x1
+5.6k x1
+10k x6
+22k x1
+33k x2
+68k x1
+100k x9
+330k x1
+470k x1
+1M x1
+2M x1
+
+Caps
+470pF x2
+1nF x1
+2.2nF x2
+4.7nF x2
+47nF x2
+0.22uF x4
+1uF x3
+2.2uF x1
+4.7uF x2
+47uF x1
+100uF x2
+470uF x4
+
+Diodes
+LED x2
+1N4148 x3
+
+Potentiometers
+5k x1
+10k x2
+50k x1
+100k x5
+
+Transistors
+2SC1815 x5
+
+ICs
+CD40106 x4
+TL072 x2
+
+Switch
+On-off x1

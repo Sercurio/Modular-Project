@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n433b32ea6dbc
-
 //Encoder setting
 #define  ENCODER_OPTIMIZE_INTERRUPTS //countermeasure of encoder noise
 #include <Encoder.h>
