@@ -27,3 +27,5 @@ MCP6232 x1
 
 uController
 Arduino Nano (328p) x1
+
+stereo jack socket x4
