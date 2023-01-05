@@ -18,3 +18,5 @@ Potentiometers
 
 ICs
 TL072 x1
+
+stereo jack socket x6
