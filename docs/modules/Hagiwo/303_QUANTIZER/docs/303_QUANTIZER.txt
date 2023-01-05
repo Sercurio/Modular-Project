@@ -28,7 +28,7 @@ ICs
 MCP4726 x1
 
 encoder
-rotary encoder x2
+rotary encoder x1
 
 slide sw x1
 
