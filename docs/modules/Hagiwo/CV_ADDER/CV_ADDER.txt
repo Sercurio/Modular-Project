@@ -12,3 +12,5 @@ Caps
 
 ICs
 TL074 x5
+
+stereo jack socket x4

@@ -27,3 +27,5 @@ TL072 x2
 
 Switchs
 SPDT x1
+
+stereo jack socket x3

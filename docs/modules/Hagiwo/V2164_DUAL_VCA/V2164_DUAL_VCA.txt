@@ -26,3 +26,5 @@ Potentiometers
 ICs
 TL074 x2
 V2164 x3
+
+stereo jack socket x3

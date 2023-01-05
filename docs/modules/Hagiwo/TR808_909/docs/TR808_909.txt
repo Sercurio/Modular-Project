@@ -32,3 +32,5 @@ TouchSensors x3
 
 uController
 Seeed Xiao x1
+
+stereo jack socket x5

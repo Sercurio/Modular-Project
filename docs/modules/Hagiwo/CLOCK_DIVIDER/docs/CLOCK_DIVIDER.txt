@@ -19,3 +19,5 @@ Transistors
 
 ICs
 TC4040BP x1
+
+stereo jack socket x3

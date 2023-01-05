@@ -7,3 +7,5 @@ Potentiometers
 
 MOSFETs
 2N7000L x1
+
+stereo jack socket x3
