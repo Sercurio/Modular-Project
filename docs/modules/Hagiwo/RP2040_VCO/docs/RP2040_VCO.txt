@@ -33,3 +33,5 @@ PushSwitch x1
 
 uController
 Seeed Xiao RP2040 x1
+
+stereo jack socket x3
