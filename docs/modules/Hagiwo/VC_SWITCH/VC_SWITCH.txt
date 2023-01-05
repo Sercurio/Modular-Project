@@ -29,6 +29,8 @@ NJU211 x1
 ICs
 TL072 x2
 
+stereo jack socket x8
+
 
 
 
