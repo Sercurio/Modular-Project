@@ -29,3 +29,5 @@ MCP4726 x1
 
 encoder
 rotary encoder x1
+
+stereo jack socket x4
