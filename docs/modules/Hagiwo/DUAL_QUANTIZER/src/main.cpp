@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/nb8b9a2f212a2
-
 #include <FlashAsEEPROM.h>//flash memory use as eeprom
 //Display setting
 #include <Adafruit_SSD1306.h>

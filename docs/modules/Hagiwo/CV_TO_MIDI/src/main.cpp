@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/nb618127f37c9
-
 #include <EEPROM.h>
 #include <MIDI.h>
 MIDI_CREATE_DEFAULT_INSTANCE();

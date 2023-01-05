@@ -1,0 +1,28 @@
+https://note.com/solder_state/n/nb618127f37c9
+
+BILL_OF_MATERIALS CV_TO_MIDI
+
+Resistors
+220R x2
+1k x6
+100k x6
+
+Caps
+0.01uF x2
+0.1uF x6
+
+Diodes
+BAT43 x12
+
+Switchs
+RotaryEncoder x1
+PushSwitch x1
+
+Modules
+SSD1306 x1
+
+Socket
+MIDI x1
+
+uController
+Arduino nano x1

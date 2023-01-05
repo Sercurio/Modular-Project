@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n7979cda44dcb
-
 #include <avr/io.h>//for fast PWM
 
 int atk1, atk2, rel1, rel2, lev1, lev2, con1, con2, out1, out2, count1, count2;

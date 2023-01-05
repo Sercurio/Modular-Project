@@ -1,0 +1,21 @@
+https://note.com/solder_state/n/n7979cda44dcb
+
+BILL_OF_MATERIALS CLOCK_DIVIDER
+
+Resistors
+2.2k x9
+10k x4
+33k x9
+100k x1
+
+Caps
+4.7uF x1
+
+Diodes
+LED x9
+
+Transistors
+2SC1815 x1
+
+ICs
+TC4040BP x1

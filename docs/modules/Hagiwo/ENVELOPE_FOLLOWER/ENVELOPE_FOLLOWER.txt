@@ -1,3 +1,26 @@
 https://note.com/solder_state/n/n110e9ba066b3
 
 BILL_OF_MATERIALS ENVELOPE_FOLLOWER
+
+Resistors
+1K x3
+10K x16
+22k x2
+33k x1
+1M x1
+
+Caps
+1uF x1
+4.7uF x3
+
+Diodes
+1N4148 x2
+LED x1
+
+Potentiometers
+50k x1
+100k x2
+1M x1
+
+ICs
+TL072 x5

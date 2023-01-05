@@ -1,0 +1,24 @@
+https://note.com/solder_state/n/n6fb73eb1d8b8
+
+BILL_OF_MATERIALS DUAL_EG
+
+Resistors
+470R x2
+1k x10
+22k x2
+100k x2
+
+Caps
+0.1uF x8
+1uF x1
+4.7uF x2
+
+Diodes
+BAT43 x10
+LED x2
+
+Potentiometers
+100k x8
+
+uController
+Arduino Nano x1

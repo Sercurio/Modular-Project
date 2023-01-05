@@ -1,0 +1,41 @@
+https://note.com/solder_state/n/nb8b9a2f212a2
+
+BILL_OF_MATERIALS DUAL_QUANTIZER
+
+Resistors
+330R x4
+470R x2
+1k x2
+3.3k x2
+6.8k x2
+10k x2
+33k x3
+220k x2
+
+Caps
+10nF x2
+0.01uF x2
+1uF x2
+
+Diodes
+BAT43 x10
+
+Transistors
+2SC1815 x2
+
+Potentiometers
+5k x2
+
+Switchs
+RotaryEncoder x1
+PushSwitch x1
+
+ICs
+TL072 x2
+
+Modules
+SSD1603 x1
+MCP4725 x1
+
+uController
+Seeed Xiao x1

@@ -1,0 +1,14 @@
+https://note.com/solder_state/n/nd040f097cbc2
+
+BILL_OF_MATERIALS CV_ADDER
+
+Resistors
+220R x1
+10k x3
+100k x6
+
+Caps
+10uF x2
+
+ICs
+TL074 x5

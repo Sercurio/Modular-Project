@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n69643b792274
-
 #include <avr/io.h>
 
 //PWMsetting

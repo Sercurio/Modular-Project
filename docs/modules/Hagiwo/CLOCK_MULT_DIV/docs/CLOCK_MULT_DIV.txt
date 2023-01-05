@@ -1,0 +1,24 @@
+https://note.com/solder_state/n/n8907f2f6e8f5
+
+BILL_OF_MATERIAL CLOCK_MULT_DIV
+
+Resistors
+470R x6
+22k x4
+
+Caps
+220pF x2
+
+Diodes
+BAT43 x8
+LED x3
+1N4148 x1
+
+Potentiometers
+100k x2
+
+Switch
+SelectSwitch x1
+
+uController
+Arduino nano x1

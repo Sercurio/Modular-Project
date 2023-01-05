@@ -1,0 +1,26 @@
+https://note.com/solder_state/n/n69643b792274
+
+BILL_OF_MATERIALS EG
+
+Resistors
+470R x1
+1k x5
+22k x1
+100k x1
+
+Caps
+100pF x4
+4.7uF x1
+
+Diodes
+BAT43 x4
+LED x1
+
+Potentiometers
+100k x4
+
+Switch
+DPST x1
+
+uController
+Arduino Nano x1

@@ -1,0 +1,25 @@
+https://note.com/solder_state/n/n681d2e07e324
+
+BILL_OF_MATERIALS CHORD_VCO
+
+Resistors
+100R x1
+220R x1
+1k x5
+3.9k x2
+100k x3
+499k x1
+
+Caps
+10nF x5
+68nF x3
+4.7uF x1
+
+Diodes
+BAT43 x8
+
+Potentiometers
+100k x3
+
+ICs
+MCP6232 x1

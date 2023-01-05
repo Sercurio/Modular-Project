@@ -1,0 +1,28 @@
+https://note.com/solder_state/n/n7c2809976698
+
+BILL_OF_MATERIALS CV_GATE
+
+Resistors
+220R x2
+1k x3
+100k x3
+
+Caps
+10nF x2
+0.01uF x2
+
+Diodes
+BAT43 x10
+
+Switchs
+RotaryEncoder x1
+
+Modules
+SSD1306 x1
+MCP4725 x1
+
+Switchs
+PushSwitch x1
+
+uController
+Arduino nano x1

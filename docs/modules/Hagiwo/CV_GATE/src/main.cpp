@@ -1,5 +1,3 @@
-//https://note.com/solder_state/n/n7c2809976698
-
 #include <EEPROM.h>
 #include <Encoder.h>
 
