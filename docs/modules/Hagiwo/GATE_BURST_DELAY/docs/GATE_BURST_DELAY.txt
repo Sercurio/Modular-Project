@@ -24,3 +24,5 @@ ToggleSwitch x1
 
 uController
 Arduino nano x1
+
+stereo jack socket x4
