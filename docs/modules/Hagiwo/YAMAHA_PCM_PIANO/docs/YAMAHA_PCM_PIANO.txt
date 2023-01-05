@@ -34,3 +34,5 @@ NSX-39 x1
 
 uController
 Seeed Xiao x1
+
+stereo jack socket x6
