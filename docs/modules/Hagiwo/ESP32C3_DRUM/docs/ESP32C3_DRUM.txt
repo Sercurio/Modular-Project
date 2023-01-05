@@ -36,3 +36,5 @@ ToggleSwitch x1
 
 uController
 Seeed Xiao ESP32C3 x1
+
+stereo jack socket x3
