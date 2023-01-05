@@ -28,6 +28,8 @@ ICs
 MCP4726 x1
 
 encoder
-rotary encoder x1
+rotary encoder x2
+
+slide sw x1
 
 stereo jack socket x4
