@@ -34,3 +34,5 @@ MPR121 x1
 
 uController
 Arduino Nano x1
+
+stereo jack socket x2
