@@ -53,3 +53,5 @@ TL072 x2
 
 Switch
 On-off x1
+
+stereo jack socket x3
