@@ -50,3 +50,5 @@ SSD1603
 
 uController
 Arduino nano x1
+
+stereo jack socket x5
