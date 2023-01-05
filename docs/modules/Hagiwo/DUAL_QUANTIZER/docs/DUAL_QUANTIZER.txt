@@ -39,3 +39,5 @@ MCP4725 x1
 
 uController
 Seeed Xiao x1
+
+stereo jack socket x7
