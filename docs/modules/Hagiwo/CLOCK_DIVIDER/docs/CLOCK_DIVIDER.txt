@@ -20,4 +20,4 @@ Transistors
 ICs
 TC4040BP x1
 
-stereo jack socket x3
+stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

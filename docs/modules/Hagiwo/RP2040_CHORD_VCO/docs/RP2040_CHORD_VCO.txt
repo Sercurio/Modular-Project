@@ -22,7 +22,7 @@ Caps
 ??? x1
 
 Diodes
-BAT43 x4
+BAT43 x4 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
 10k x3
@@ -37,4 +37,4 @@ PushSwitch x1
 uController
 Seeed XIAO RP2040 x1
 
-stereo jack socket x3
+stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

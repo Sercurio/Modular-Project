@@ -12,7 +12,7 @@ Caps
 0.1uF x6
 
 Diodes
-BAT43 x12
+BAT43 x12 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Switchs
 RotaryEncoder x1
@@ -27,4 +27,4 @@ MIDI x1
 uController
 Arduino nano x1
 
-stereo jack socket x1
+stereo jack socket x1 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

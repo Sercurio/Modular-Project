@@ -10,7 +10,7 @@ Caps
 220pF x2
 
 Diodes
-BAT43 x8
+BAT43 x8 https://www.taydaelectronics.com/bat43-diode-schottky.html
 LED x3
 1N4148 x1
 
@@ -23,4 +23,4 @@ SelectSwitch x1
 uController
 Arduino nano x1
 
-stereo jack socket x4
+stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

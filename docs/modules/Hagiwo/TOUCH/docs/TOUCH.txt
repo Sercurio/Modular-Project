@@ -14,7 +14,7 @@ Caps
 0.1uF x1
 
 Diodes
-BAT43 x10
+BAT43 x10 https://www.taydaelectronics.com/bat43-diode-schottky.html
 LED x1
 
 Transistors
@@ -35,4 +35,4 @@ MPR121 x1
 uController
 Arduino Nano x1
 
-stereo jack socket x2
+stereo jack socket x2 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

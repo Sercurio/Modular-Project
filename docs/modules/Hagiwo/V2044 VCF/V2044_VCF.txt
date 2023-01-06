@@ -33,4 +33,4 @@ ICs
 TL072 x3
 V2044 x1
 
-stereo jack socket x4
+stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

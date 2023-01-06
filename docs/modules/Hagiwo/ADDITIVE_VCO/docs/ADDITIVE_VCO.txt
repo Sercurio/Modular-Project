@@ -17,7 +17,7 @@ Caps
 4.7uF x1
 
 Diodes
-Schottky 0.3V (BAT43) x8
+BAT43 x8 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
 100k x3
@@ -28,4 +28,4 @@ MCP6232 x1
 uController
 Arduino Nano (328p) x1
 
-stereo jack socket x4
+stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

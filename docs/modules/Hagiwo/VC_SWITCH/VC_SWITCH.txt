@@ -29,7 +29,7 @@ NJU211 x1
 ICs
 TL072 x2
 
-stereo jack socket x8
+stereo jack socket x8 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
 
 
 

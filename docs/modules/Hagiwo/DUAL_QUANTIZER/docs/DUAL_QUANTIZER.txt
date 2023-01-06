@@ -18,7 +18,7 @@ Caps
 1uF x2
 
 Diodes
-BAT43 x10
+BAT43 x10 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Transistors
 2SC1815 x2
@@ -40,4 +40,4 @@ MCP4725 x1
 uController
 Seeed Xiao x1
 
-stereo jack socket x7
+stereo jack socket x7 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

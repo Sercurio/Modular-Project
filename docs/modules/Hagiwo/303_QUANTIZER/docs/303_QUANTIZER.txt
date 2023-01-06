@@ -19,7 +19,7 @@ Caps
 
 Diodes
 led rgb x1
-Schottky 0.3V (BAT43) x8
+BAT43 x8 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
 100k x1
@@ -32,4 +32,4 @@ rotary encoder x1
 
 slide sw x1
 
-stereo jack socket x4
+stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

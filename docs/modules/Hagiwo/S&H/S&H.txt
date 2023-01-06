@@ -28,4 +28,4 @@ TL072 x2
 Switchs
 SPDT x1
 
-stereo jack socket x3
+stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
