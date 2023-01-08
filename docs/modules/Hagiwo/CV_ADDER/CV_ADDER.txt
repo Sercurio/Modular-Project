@@ -11,6 +11,6 @@ Caps
 10uF x2
 
 ICs
-TL074 x5
+TL074 x5 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
 
-stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

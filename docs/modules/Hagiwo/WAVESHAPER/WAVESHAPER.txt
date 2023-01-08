@@ -3,9 +3,9 @@ https://note.com/solder_state/n/nfdc2e198255a
 BILL OF MATERIALS WAVESHAPER
 
 Potentiometers
-100k x1 
+100k x1 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html 
 
 MOSFETs
-2N7000L x1
+2N7000L(2N7000 instead) x1 https://www.taydaelectronics.com/2n7000-mosfet-n-channel-60v-0-2a.html
 
-stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

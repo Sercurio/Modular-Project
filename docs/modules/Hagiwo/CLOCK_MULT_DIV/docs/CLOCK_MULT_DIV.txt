@@ -12,15 +12,13 @@ Caps
 Diodes
 BAT43 x8 https://www.taydaelectronics.com/bat43-diode-schottky.html
 LED x3
-1N4148 x1
+1N4148 x1 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 Potentiometers
-100k x2
-
-Switch
-SelectSwitch x1
+100k x2 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 uController
 Arduino nano x1
 
-stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+On-off switch x1 https://www.taydaelectronics.com/sub-mini-toggle-switch-2m-series-spst-off-on.html

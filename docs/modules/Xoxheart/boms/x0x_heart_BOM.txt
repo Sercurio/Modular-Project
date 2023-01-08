@@ -27,7 +27,7 @@ Capacitors
 
 Diodes
 MBR0530 30V/0.5A x1 LOSS
-1N4148 x12 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
+1N4148 x1 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html2 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 Headers
 0.1' 16Pins x1 https://www.taydaelectronics.com/16-pin-2-54-mm-single-row-female-pin-header.html

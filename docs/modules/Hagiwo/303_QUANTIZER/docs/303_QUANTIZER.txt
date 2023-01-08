@@ -22,14 +22,13 @@ led rgb x1
 BAT43 x8 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
-100k x1
+100k x1 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-MCP4726 x1
+MCP4726 x1 LOSS
 
-encoder
-rotary encoder x1
+RotaryEncoder x1 https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-without-switch-vertical.html https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-without-switch-vertical.html
 
-slide sw x1
+On-off switch x1 https://www.taydaelectronics.com/sub-mini-toggle-switch-2m-series-spst-off-on.html
 
-stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

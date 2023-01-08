@@ -12,11 +12,10 @@ Caps
 4.7uF x2
 
 Potentiometers
-
-10k x5
-100k x1 
+10k x5 https://www\.taydaelectronics\.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm\.html
+100k x1 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html 
 
 ICs
-TL072 x1
+TL072 x1 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 
-stereo jack socket x6 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x6 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

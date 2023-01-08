@@ -18,21 +18,21 @@ BAT43 x10 https://www.taydaelectronics.com/bat43-diode-schottky.html
 LED x1
 
 Transistors
-2SC1815 x2
+2SC1815 x2 https://www.taydaelectronics.com/2sc1815-c1815-transistor-npn-50v-0-15a.html
 
 Potentiometers
-10k x1
+10k x1 https://www.taydaelectronics.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-MCP4911 x1
+MCP4911 x1 LOSS
 
-Switchs
+
 TPST x1
 
 Modules
-MPR121 x1
+MPR121 x1 https://fr.aliexpress.com/item/1005005112349449.html?spm=a2g0o.productlist.main.11.4ff04582AOhuHW&algo_pvid=cfa2148f-f3ca-4493-9b3a-e990eee31098&aem_p4p_detail=2023010813241513297044758995690007377735&algo_exp_id=cfa2148f-f3ca-4493-9b3a-e990eee31098-5&pdp_ext_f=%7B%22sku_id%22%3A%2212000031702690118%22%7D&pdp_npi=2%40dis%21EUR%210.92%210.92%21%21%21%21%21%4021021b4716732130558606122d0688%2112000031702690118%21sea&curPageLogUid=SZOzr6wcvh2J&ad_pvid=2023010813241513297044758995690007377735_6&ad_pvid=2023010813241513297044758995690007377735_6
 
 uController
 Arduino Nano x1
 
-stereo jack socket x2 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x2 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

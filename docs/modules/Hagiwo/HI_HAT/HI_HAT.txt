@@ -36,7 +36,7 @@ Caps
 
 Diodes
 LED x2
-1N4148 x3
+1N4148 x3 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 Potentiometers
 5k x1
@@ -45,13 +45,13 @@ Potentiometers
 100k x5
 
 Transistors
-2SC1815 x5
+2SC1815 x5 https://www.taydaelectronics.com/2sc1815-c1815-transistor-npn-50v-0-15a.html
 
 ICs
-CD40106 x4
-TL072 x2
+CD40106 x4 https://www.taydaelectronics.com/cd40106-cd40106be-40106-hex-schmitt-trigger-ic.html
+TL072 x2 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 
 Switch
-On-off x1
+On-off x1 https://www.taydaelectronics.com/sub-mini-toggle-switch-2m-series-spst-off-on.html
 
-stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

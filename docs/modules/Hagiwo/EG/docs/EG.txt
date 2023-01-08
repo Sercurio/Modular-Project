@@ -17,7 +17,7 @@ BAT43 x4 https://www.taydaelectronics.com/bat43-diode-schottky.html
 LED x1
 
 Potentiometers
-100k x4
+100k x4 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 Switch
 DPST x1
@@ -25,4 +25,4 @@ DPST x1
 uController
 Arduino Nano x1
 
-stereo jack socket x2 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x2 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

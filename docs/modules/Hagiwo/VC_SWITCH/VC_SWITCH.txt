@@ -13,23 +13,23 @@ Caps
 4.7uF x2
 
 Diodes
-1N4148 x2
+1N4148 x2 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 LEDs x2
 
 Transistors
-2SC1815 x2
+2SC1815 x2 https://www.taydaelectronics.com/2sc1815-c1815-transistor-npn-50v-0-15a.html
 
 Potentiometers
-10k x1
+10k x1 https://www.taydaelectronics.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
-Switchs
-??? x2
-NJU211 x1
+
+push x2
+NJU211 x1 LOSS
 
 ICs
-TL072 x2
+TL072 x2 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 
-stereo jack socket x8 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x8 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
 
 
 

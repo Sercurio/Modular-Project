@@ -21,20 +21,20 @@ Caps
 
 Diodes
 BAT43 x4 https://www.taydaelectronics.com/bat43-diode-schottky.html
-1N4148 x1
+1N4148 x1 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 LED x1
 
 Potentiometers
-10k x1
+10k x1 https://www.taydaelectronics.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-MCP6232 x1
+MCP6232(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amplifier-j-fet-pdip-8-tl071cp.html
 
 Switch
-RotaryEncoder x1
+RotaryEncoder x1 https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-without-switch-vertical.html
 ToggleSwitch x1
 
 uController
 Seeed Xiao ESP32C3 x1
 
-stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

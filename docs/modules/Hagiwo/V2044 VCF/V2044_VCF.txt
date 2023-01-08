@@ -23,14 +23,14 @@ Caps
 10uF x2
 
 Diodes
-1N4148 x1
+1N4148 x1 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 Potentiometers
-10k x1
-100k x4
+10k x1 https://www\.taydaelectronics\.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm\.html
+100k x4 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-TL072 x3
+TL072 x3 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 V2044 x1
 
-stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

@@ -13,12 +13,12 @@ Caps
 220pF x1
 
 Diodes
-1N4148 x1
+1N4148 x1 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 LED x2
 BAT43 x8 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
-100k x1
+100k x1 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
 TLP785 x1
@@ -27,4 +27,4 @@ MCP4922 x1
 uController
 Arduino Nano x1
 
-stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

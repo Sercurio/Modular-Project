@@ -24,7 +24,7 @@ Potentiometers
 100k (B) x1
 
 ICs
-TL074 x2
-V2164 x3
+TL074 x2 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
+V2164(AS2164 instead) x3 https://electricdruid.net/product/as2164-quad-vca/
 
-stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

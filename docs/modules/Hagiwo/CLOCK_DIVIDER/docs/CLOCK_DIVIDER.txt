@@ -15,9 +15,9 @@ Diodes
 LED x9
 
 Transistors
-2SC1815 x1
+2SC1815 x1 https://www.taydaelectronics.com/2sc1815-c1815-transistor-npn-50v-0-15a.html
 
 ICs
-TC4040BP x1
+TC4040BP(CD4040B instead) x1 https://www.taydaelectronics.com/cd4040be-cd4040-4040-ripple-carry-binary-counter-divider-ic.html
 
-stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

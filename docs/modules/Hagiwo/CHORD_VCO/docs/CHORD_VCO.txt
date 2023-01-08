@@ -19,9 +19,9 @@ Diodes
 BAT43 x8 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
-100k x3
+100k x3 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-MCP6232 x1
+MCP6232(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amplifier-j-fet-pdip-8-tl071cp.html
 
-stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

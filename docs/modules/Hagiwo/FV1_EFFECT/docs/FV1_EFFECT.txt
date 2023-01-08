@@ -31,24 +31,24 @@ Potentiometers
 100k x5
 
 Crystal
-FC-135 x1
+FC-135 x1 LOSS
 
 VoltageReg
-LM2940T-33 x1
+LM2940T-33 x1 LOSS
 
 ICs
-TL072 x2
+TL072 x2 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 
 Switch
-On-off x1
-RotaryEncoder4 x1
-PushSwitch x1
+On-off x1 https://www.taydaelectronics.com/sub-mini-toggle-switch-2m-series-spst-off-on.html
+RotaryEncoder x1 https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-without-switch-vertical.html https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-without-switch-vertical.html
+MomentaryButton x1 https://www.taydaelectronics.com/push-button-switch-momentary-dc-30v-0-1a-dpdt-7x7mm.html
 
 Modules
-24FC64 x2
-SSD1603
+24FC64 x2 LOSS
+SSD1306 x1 https://fr.aliexpress.com/item/4001028369082.html?spm=a2g0o.productlist.main.1.1301XriYXriYiP&algo_pvid=a54c48a7-8b7b-42e8-a682-e173c5b71b37&aem_p4p_detail=202301081103551892649843215900010012434&algo_exp_id=a54c48a7-8b7b-42e8-a682-e173c5b71b37-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013573591133%22%7D&pdp_npi=2%40dis%21EUR%211.97%211.58%21%21%21%21%21%402102160416732046352101124d06cd%2110000013573591133%21sea&curPageLogUid=u7piYN9Ad0y7&ad_pvid=202301081103551892649843215900010012434_1&ad_pvid=202301081103551892649843215900010012434_1
 
 uController
 Arduino nano x1
 
-stereo jack socket x5 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x5 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

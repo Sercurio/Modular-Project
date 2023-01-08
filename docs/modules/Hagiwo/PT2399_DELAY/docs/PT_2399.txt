@@ -29,26 +29,26 @@ Caps
 100uF x1
 
 Diodes
-1N4148 x1
+1N4148 x1 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 BAT43 x4 https://www.taydaelectronics.com/bat43-diode-schottky.html
 LED x1
 
 Transistors
-2SC1815 x1
+2SC1815 x1 https://www.taydaelectronics.com/2sc1815-c1815-transistor-npn-50v-0-15a.html
 
 Potentiometers
-10k x1
-100k x2
+10k x1 https://www\.taydaelectronics\.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm\.html
+100k x2 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-MCP6232 x1
-TL072 x2
+MCP6232(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amplifier-j-fet-pdip-8-tl071cp.html
+TL072 x2 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 PT2399 x1
 
-Switchs
-PushSwitch x1
+
+MomentaryButton x1 https://www.taydaelectronics.com/push-button-switch-momentary-dc-30v-0-1a-dpdt-7x7mm.html
 
 uController 
 Arduino Nano x1
 
-stereo jack socket x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

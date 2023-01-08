@@ -22,16 +22,16 @@ Diodes
 BAT43 x6 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
-10k x2
+10k x2 https://www.taydaelectronics.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-MCP6232 x1
+MCP6232(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amplifier-j-fet-pdip-8-tl071cp.html
 
-Switchs
+
 TPST On-Off-On x2 
-PushSwitch x1
+MomentaryButton x1 https://www.taydaelectronics.com/push-button-switch-momentary-dc-30v-0-1a-dpdt-7x7mm.html
 
 uController
 Seeed Xiao RP2040 x1
 
-stereo jack socket x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html
+mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

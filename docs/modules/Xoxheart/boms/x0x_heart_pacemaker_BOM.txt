@@ -16,7 +16,7 @@ Resistors
 470k x1
 
 ICs
-TL072 x1
+TL072 x1 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 LM339 x1
 LM555 x1
 74HC14 x1
@@ -24,7 +24,7 @@ LM555 x1
 7805 x1
 
 Diodes
-1N4148 x4
+1N4148 x4 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 Capacitors
 0.1uF x7 all non-polar caps can be either poly or MLCC
@@ -39,7 +39,7 @@ Potentiometers
 50k A x3
 1M A x1
 
-Switchs
+
 DPDT ON-ON-ON x2
 
 Jacks
