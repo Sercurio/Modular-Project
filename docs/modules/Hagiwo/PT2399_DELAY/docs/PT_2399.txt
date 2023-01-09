@@ -43,8 +43,7 @@ Potentiometers
 ICs
 MCP6232(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amplifier-j-fet-pdip-8-tl071cp.html
 TL072 x2 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
-PT2399 x1
-
+PT2399 x1 https://www.taydaelectronics.com/pt2399-2399-echo-audio-processor-guitar-ic.html
 
 MomentaryButton x1 https://www.taydaelectronics.com/push-button-switch-momentary-dc-30v-0-1a-dpdt-7x7mm.html
 

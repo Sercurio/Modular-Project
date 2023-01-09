@@ -18,11 +18,10 @@ Caps
 4.7uF x2
 
 Potentiometers
-
-100k x1
+100k x1 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
 TL074 x2 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
-LM13700 x1
+LM13700 x1 https://www.taydaelectronics.com/lm13700-lm13700n-operational-amplifier-ic.html
 
 mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

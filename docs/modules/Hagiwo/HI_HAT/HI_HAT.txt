@@ -39,10 +39,10 @@ LED x2
 1N4148 x3 https://www.taydaelectronics.com/1n4148-switching-signal-diode.html
 
 Potentiometers
-5k x1
-10k x2
-50k x1
-100k x5
+5k x1 https://www.taydaelectronics.com/b5k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+10k x2 https://www\.taydaelectronics\.com/10k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm\.html
+50k x1 https://www.taydaelectronics.com/b50k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+100k x5 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 Transistors
 2SC1815 x5 https://www.taydaelectronics.com/2sc1815-c1815-transistor-npn-50v-0-15a.html

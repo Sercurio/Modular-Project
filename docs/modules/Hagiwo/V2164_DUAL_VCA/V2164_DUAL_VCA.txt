@@ -19,9 +19,9 @@ Caps
 47uf x2
 
 Potentiometers
-10k (B) x3
-50k (B) x1
-100k (B) x1
+10k (B) x3 https://www.taydaelectronics.com/10k-ohm-anti-log-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+50k (B) x1 LOSS
+100k (B) x1 https://www.taydaelectronics.com/100k-ohm-anti-log-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
 TL074 x2 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html

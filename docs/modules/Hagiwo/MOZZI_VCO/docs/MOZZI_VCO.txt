@@ -27,7 +27,7 @@ ICs
 NJM2732(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amplifier-j-fet-pdip-8-tl071cp.html
 
 
-DPST x1
+On-on x1 https://www.taydaelectronics.com/mini-toggle-switch-spdt-on-none-on.html
 
 uController
 Arduino nano x1

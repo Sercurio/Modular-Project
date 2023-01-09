@@ -22,10 +22,9 @@ Potentiometers
 100k x3 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-uPC398c x1
+uPC398c x1 LOSS
 TL072 x2 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
 
-
-SPDT x1
+On-off x1 https://www.taydaelectronics.com/sub-mini-toggle-switch-2m-series-spst-off-on.html
 
 mono jack x3 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

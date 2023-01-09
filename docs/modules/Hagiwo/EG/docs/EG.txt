@@ -20,7 +20,7 @@ Potentiometers
 100k x4 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 Switch
-DPST x1
+On-on x1 https://www.taydaelectronics.com/mini-toggle-switch-spdt-on-none-on.html
 
 uController
 Arduino Nano x1

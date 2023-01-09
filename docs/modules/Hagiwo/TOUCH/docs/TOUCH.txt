@@ -26,8 +26,7 @@ Potentiometers
 ICs
 MCP4911 x1 LOSS
 
-
-TPST x1
+On-Off-on x1 https://www.taydaelectronics.com/mini-toggle-switch-1m-series-spdt-on-off-on.html
 
 Modules
 MPR121 x1 https://fr.aliexpress.com/item/1005005112349449.html?spm=a2g0o.productlist.main.11.4ff04582AOhuHW&algo_pvid=cfa2148f-f3ca-4493-9b3a-e990eee31098&aem_p4p_detail=2023010813241513297044758995690007377735&algo_exp_id=cfa2148f-f3ca-4493-9b3a-e990eee31098-5&pdp_ext_f=%7B%22sku_id%22%3A%2212000031702690118%22%7D&pdp_npi=2%40dis%21EUR%210.92%210.92%21%21%21%21%21%4021021b4716732130558606122d0688%2112000031702690118%21sea&curPageLogUid=SZOzr6wcvh2J&ad_pvid=2023010813241513297044758995690007377735_6&ad_pvid=2023010813241513297044758995690007377735_6

@@ -27,8 +27,8 @@ Diodes
 BAT43 x6 https://www.taydaelectronics.com/bat43-diode-schottky.html
 
 Potentiometers
-50k x1
-100k x5
+50k x1 https://www.taydaelectronics.com/b50k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+100k x5 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 Crystal
 FC-135 x1 LOSS

@@ -32,7 +32,7 @@ MCP6232(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amp
 
 Switch
 RotaryEncoder x1 https://www.taydaelectronics.com/rotary-encoder-11mm-20-detents-d-shaft-without-switch-vertical.html
-ToggleSwitch x1
+On-off x1 https://www.taydaelectronics.com/sub-mini-toggle-switch-2m-series-spst-off-on.html
 
 uController
 Seeed Xiao ESP32C3 x1

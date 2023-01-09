@@ -21,7 +21,7 @@ Potentiometers
 100k x1 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
-TLP785 x1
+TLP785(4n35 instead) x1 https://www.taydaelectronics.com/4n35-optocouplers-phototransistor-30v-ic.html
 MCP4922 x1
 
 uController

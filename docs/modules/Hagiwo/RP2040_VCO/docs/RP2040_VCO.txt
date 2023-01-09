@@ -28,7 +28,7 @@ ICs
 MCP6232(TL071 instead) x1 https://www.taydaelectronics.com/tl071-operational-amplifier-j-fet-pdip-8-tl071cp.html
 
 
-TPST On-Off-On x2 
+On-Off-On x2 https://www.taydaelectronics.com/mini-toggle-switch-1m-series-spdt-on-off-on.html
 MomentaryButton x1 https://www.taydaelectronics.com/push-button-switch-momentary-dc-30v-0-1a-dpdt-7x7mm.html
 
 uController

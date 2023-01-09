@@ -31,7 +31,7 @@ ICs
 TL074 x4 https://www.taydaelectronics.com/tl074-quad-operational-amplifier-j-fet-pdip-14-tl074cn.html
 
 
-TPST On-Off-On x1
+On-Off-On x1 https://www.taydaelectronics.com/mini-toggle-switch-1m-series-spdt-on-off-on.html
 MomentaryButton x1 https://www.taydaelectronics.com/push-button-switch-momentary-dc-30v-0-1a-dpdt-7x7mm.html
 
 uController

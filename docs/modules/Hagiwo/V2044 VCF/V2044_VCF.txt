@@ -31,6 +31,6 @@ Potentiometers
 
 ICs
 TL072 x3 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
-V2044 x1
+V2044 x1 LOSS
 
 mono jack x4 https://www.taydaelectronics.com/pj-301bm-3-5-mm-mono-phone-jack.html

@@ -18,9 +18,9 @@ Diodes
 LED x1
 
 Potentiometers
-50k x1
-100k x2
-1M x1
+50k x1 https://www.taydaelectronics.com/b50k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
+100k x2 https://www.taydaelectronics.com/100k-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html 
+1M x1 https://www.taydaelectronics.com/1m-ohm-linear-taper-potentiometer-round-knurled-plastic-shaft-pcb-9mm.html
 
 ICs
 TL072 x5 https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html
